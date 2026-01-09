@@ -13,7 +13,7 @@
 //   ALLOW_LOCAL_NET=true|false (default false)  <-- SSRF protection
 
 'use strict';
-
+const { Transform } = require('stream');
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
